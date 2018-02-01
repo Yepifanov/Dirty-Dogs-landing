@@ -1,0 +1,14 @@
+{
+  "name": "hot-dog-store",
+  "version": "1.0.0",
+  "description": "Landing for Dirty Dogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hot-dog"
+  ],
+  "author": "Gennadiy Yepifanov",
+  "license": "ISC"
+}
